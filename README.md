@@ -3,3 +3,6 @@
 
 [![kimhoeyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhoeyun)](https://github.com/kimhoeyun/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nuyeohmeek)](https://solved.ac/uyeohmeek/)
+
+### 자격증 
+SQLD(SQL Developer) - 2025년 12월 취득
