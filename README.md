@@ -21,4 +21,4 @@
 
 
 <div align=center><h2>🪪 LISCENSE</h2></div>
-SQLD (SQL 개발자) - 2025년 12월 12일
+SQLD (SQL 개발자)
