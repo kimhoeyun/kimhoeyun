@@ -1,7 +1,7 @@
 ## 안녕하세요 👋
 컴퓨터SW학과에 재학 중인 백엔드 개발자 김회윤입니다!
 
-[![kimhoeyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhoeyun)](https://github.com/kimhoeyun/github-readme-stats)
+![kimhoeyun's GitHub stats](https://github-readme-stats-black-alpha-42.vercel.app/api?username=kimhoeyun&show_icons=true&&border_color=22222&bg_color=fffff&title_color=000000&text_color=333333&icon_color=888888)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nuyeohmeek)](https://solved.ac/uyeohmeek/)
 
 <div align=center><h2>📚 TECH STACKS</h2></div>
