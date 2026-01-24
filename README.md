@@ -1,8 +1,11 @@
 ## 안녕하세요 👋
 컴퓨터SW학과에 재학 중인 백엔드 개발자 김회윤입니다!
 
-![kimhoeyun's GitHub stats](https://github-readme-stats-black-alpha-42.vercel.app/api?username=kimhoeyun&show_icons=true&&border_color=22222&bg_color=fffff&title_color=000000&text_color=333333&icon_color=888888)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nuyeohmeek)](https://solved.ac/uyeohmeek/)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimhoeyun&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nuyeohmeek" />
+</div>
 
 <div align=center><h2>📚 TECH STACKS</h2></div>
 
@@ -13,6 +16,9 @@
   
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <br>
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
