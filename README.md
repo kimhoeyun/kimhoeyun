@@ -3,7 +3,6 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimhoeyun&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nuyeohmeek" />
 </div>
 
