@@ -28,4 +28,4 @@
 
 
 <div align=center><h2>🪪 LISCENSE</h2></div>
-SQLD (SQL 개발자)
+SQLD (SQL 개발자) | 2025.12
