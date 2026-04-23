@@ -1,5 +1,7 @@
-## 안녕하세요 👋
-컴퓨터SW학과에 재학 중인 백엔드 개발자 김회윤입니다!
+## 사용자와 세상을 잇는 백엔드 개발자, 김회윤입니다!
+
+<a href="https://velog.io/@kimhoeyun/posts"><img src="https://img.shields.io/badge/Tech%20Blog-velog-11B57D?style=for-the-badge&logo=velog&logoColor=white"/></a>
+<a href="mailto:nuyeohmeek@naver.com"><img src="https://img.shields.io/badge/Mail-nuyeohmeek%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
 
 
 <div align="center">
@@ -10,7 +12,7 @@
 <div align=center><h2>📚 TECH STACKS</h2></div>
 
 <div align=center> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src=https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
   
@@ -19,6 +21,11 @@
   <br>
 
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <br>
+
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <br>
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
