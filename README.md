@@ -4,10 +4,6 @@
 <a href="mailto:nuyeohmeek@naver.com"><img src="https://img.shields.io/badge/Mail-nuyeohmeek%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimhoeyun&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nuyeohmeek" />
-</div>
 
 <div align=center><h2>📚 TECH STACKS</h2></div>
 
