@@ -12,7 +12,8 @@
 ---
 
 <div align=left><h3>🛠️ TECH STACKS</h3></div>
-
+<div align=left>
+  
 **Backend**
 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -43,3 +44,4 @@
 
 <div align=left><h3>🪪 LISCENSE</h3></div>
 SQLD (SQL 개발자) | 2025.12
+</div>
