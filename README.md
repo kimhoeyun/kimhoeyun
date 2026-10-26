@@ -6,7 +6,6 @@
 <div align="center">
 
 
-
 <br/>
 
 ---
@@ -44,4 +43,12 @@
 
 <div align=left><h3>🪪 LISCENSE</h3></div>
 SQLD (SQL 개발자) | 2025.12
+</div>
+
+---
+
+<div align=left><h3>💫 STATS</h3></div>
+<div align= "left">
+    <img src="https://github-readme-stats.vercel.app/api?username=kimhoeyun&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
+</div>
 </div>
